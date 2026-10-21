@@ -1,30 +1,28 @@
 
 body {
-    background-color: black;
-    color: white;
+    background-color: lightgreen;
     text-align: center;
 }
 
 h1 {
+    color: darkgreen;
+}
+
+h3 {
+    background-color: white;
+    padding: 10px;
+}
+
+h3:hover {
     color: red;
-}
-
-img {
-    width: 300px;
-}
-
-img:hover {
-    width: 350px;
 }
 
 a {
-    color: red;
+    background-color: green;
+    color: white;
+    padding: 10px;
 }
 
 a:hover {
-    color: white;
-}
-
-p:hover {
-    color: red;
+    background-color: orange;
 }
