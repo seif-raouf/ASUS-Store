@@ -1,0 +1,30 @@
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    width: 300px;
+}
+
+img:hover {
+    width: 350px;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: white;
+}
+
+p:hover {
+    color: red;
+}
